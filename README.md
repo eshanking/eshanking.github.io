@@ -1,1 +1,0 @@
-# Eshan King personal website
