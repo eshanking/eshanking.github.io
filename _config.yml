@@ -204,6 +204,9 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
 
+  order: descending
+  sort_by: year, month
+
   query: "@*"
 
 
