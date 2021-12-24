@@ -19,7 +19,7 @@ Hailing from Alabama, I went to undergrad at Washinton University in St. Louis, 
 
 I matriculated in the Case MSTP in the summer of 2019. In the summer of 2021, I matriculated in the [Systems Biology and Bioinformatics PhD program](https://case.edu/medicine/nutrition/education/phd-programs/phd-systems-biology-and-bioinformatics) at Case Western Reserve University School of Medicine.
 
-Outside of academia, I like rock climbing, running, and spotting cats around my neighborhood.
+Outside of academia, I like craft coffee, rock climbing, running, and spotting cats around my neighborhood.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
