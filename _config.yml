@@ -79,7 +79,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Eshan's Blog  # your blog must have a name for it to show up in the nav bar
+blog_name: # your blog must have a name for it to show up in the nav bar
 blog_description: # a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -183,8 +183,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: King
+  first_name: [Eshan, S.]
 
   style: apa
   locale: en
@@ -203,9 +203,6 @@ scholar:
   details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
-
-  order: descending
-  sort_by: year, month
 
   query: "@*"
 
