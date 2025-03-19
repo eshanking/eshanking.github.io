@@ -11,6 +11,25 @@ on:
       - main
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.1
+        bundler-cache: true
+
+    - name: Install dependencies
+      run: bundle install
+
+    - name: Build and deploy
+      run: |
+        bundle exec jekyll build
   deploy:
     runs-on: ubuntu-latest
     steps:
