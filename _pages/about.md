@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a MD student and PhD graduate in the [Medical Scientist Training Program (MSTP)](https://case.edu/medicine/admissions-programs/md-phd-program) at Case Western Reserve University School of Medicine and a member of the [Theory Division](https://theorydi.vision) at the Cleveland Clinic Lerner Research Insitute. I graduated with my PhD in Systems Biology and Bioinformatics in May 2024. As a medical student and aspiring physician-scientist, I am interested in leveraging the rich field of evolutionary biology to expand our cancer therapy toolkit.
 
-Hailing from Alabama, I went to undergrad at Washinton University in St. Louis, where I majored in biomedical engineering with a minor in electrical engineering and ran varsity cross country and track and field. I spent a gap year as a research technician in the [Lew Lab](https://lewlab.wustl.edu) where I studied single molecule imaging of DNA structures.
+Hailing from Alabama, I went to undergrad at Washinton University in St. Louis, where I majored in biomedical engineering with a minor in electrical engineering and ran cross country and track and field. I spent a gap year as a research technician in the [Lew Lab](https://lewlab.wustl.edu) where I studied single molecule imaging of DNA structures.
 
 I matriculated in the Case MSTP in the summer of 2019. In the summer of 2021, I matriculated in the [Systems Biology and Bioinformatics PhD program](https://case.edu/medicine/nutrition/education/phd-programs/phd-systems-biology-and-bioinformatics) at Case Western Reserve University School of Medicine.
 
